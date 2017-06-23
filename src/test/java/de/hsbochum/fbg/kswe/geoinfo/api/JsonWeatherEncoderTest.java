@@ -26,5 +26,4 @@ public class JsonWeatherEncoderTest {
         Assert.assertThat(json, CoreMatchers.containsString("22.3"));
         Assert.assertThat(json, CoreMatchers.containsString("C"));
     }
-    
 }
