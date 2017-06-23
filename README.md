@@ -33,6 +33,10 @@ Das Ergebnis der Methode soll dem Folgenden JSON entsprechen:
 * identifiziere den Fehler
 * führe Anpassungen durch, damit der Test erfolgreich ausgeführt wird
 
+## Code Coverage
+
+* erstelle die Code Coverage für das gesamte Projekt
+
 ## Automatisches Testen
 
 [Travis-CI](https://travis-ci.org/) ist eine [Continuous
